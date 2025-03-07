@@ -26,7 +26,7 @@
     "element-plus": "2.3.6",
     "js-base64": "3.7.5",
     "moment": "2.29.4",
-    "pinia": "2.0.33",
+    "pinia": "2.3.1",
     "pinia-plugin-persistedstate": "3.1.0",
     "qs": "6.11.2",
     "vue": "3.2.47",
