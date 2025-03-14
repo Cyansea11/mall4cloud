@@ -43,7 +43,7 @@
     "video.js": "8.6.1",
     "videojs-flvjs-es6": "^1.0.1",
     "vue": "3.3.8",
-    "vue-i18n": "9.6.5"
+    "vue-i18n": "9.14.3"
   },
   "devDependencies": {
     "@dcloudio/types": "3.4.3",
