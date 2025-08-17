@@ -1,3 +1,3 @@
-FROM nginx:1.20
+FROM nginx:1.29.1
 COPY ./dist/build/h5 /usr/share/nginx/html/cloud
 COPY ./nginx.conf /etc/nginx/conf.d
